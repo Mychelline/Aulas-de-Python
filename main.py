@@ -1,4 +1,2 @@
 print ("Mychelline");
-if (Mychelline){
-  print ("Você é a tutora");
-}
+print (5+5);
